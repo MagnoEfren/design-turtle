@@ -1,3 +1,7 @@
+# Python - Logo
+# @autor: Magno Efren
+# Youtube: https://www.youtube.com/c/MagnoEfren
+
 import turtle as t 
 
 t.bgcolor('black')
