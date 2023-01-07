@@ -1,4 +1,4 @@
-"""import turtle as t
+import turtle as t
 from math import cos, sin
 
 t.tracer(2)
@@ -17,4 +17,4 @@ for i in range(800):
 	t.goto(heartX(i)*10, heartY(i)*10)
 	t.goto(0,0)
 
-t.exitonclick()"""
+t.exitonclick()
