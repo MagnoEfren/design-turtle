@@ -5,7 +5,6 @@ t.goto(0, -100)
 t.colormode(255)
 t.bgcolor(0,0,0)
 angle = 25
-
 def draw(s, n):
     if n>0:
         t.pencolor(0, 255//n, 0)
